@@ -1,0 +1,15 @@
+
+@font-face {
+	font-family: samim;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../fonts/samim/Samim.woff') format('woff'),   
+	url('../fonts/samim/Samim.woff2') format('woff2');		
+}
+@font-face {
+	font-family: samim;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/samim/Samim-Bold.woff') format('woff'),   
+	url('../fonts/samim/Samim-Bold.woff2') format('woff2');	 
+}
